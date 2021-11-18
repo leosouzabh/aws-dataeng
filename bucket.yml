@@ -17,9 +17,9 @@ Resources:
         - Key: exemplo
           Value: por que o Edson pediu
         - Key: owner
-          Value: data-engineering
+          Value: data-engineering 2
         - Key: service
-          Value: airflow
+          Value: airflow 21
 
   Bucket2BeliscoS3:
     Type: AWS::S3::Bucket
