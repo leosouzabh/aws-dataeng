@@ -19,5 +19,5 @@ jobs:
         run: |
           pip install -r tests/requirements.txt
 
-      - name: Run tests 2
+      - name: Run tests 21
         run: python -m pytest
